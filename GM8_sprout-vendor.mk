@@ -17,6 +17,7 @@
 PRODUCT_COPY_FILES += \
     vendor/GM/GM8_sprout/proprietary/bin/dpmd:system/bin/dpmd \
     vendor/GM/GM8_sprout/proprietary/bin/wfdservice:system/bin/wfdservice \
+    vendor/GM/GM8_sprout/proprietary/bin/keystore:system/bin/keystore \
     vendor/GM/GM8_sprout/proprietary/etc/dpm/dpm.conf:system/etc/dpm/dpm.conf \
     vendor/GM/GM8_sprout/proprietary/etc/init/dpmd.rc:system/etc/init/dpmd.rc \
     vendor/GM/GM8_sprout/proprietary/etc/init/wfdservice.rc:system/etc/init/wfdservice.rc \
